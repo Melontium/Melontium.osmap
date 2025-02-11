@@ -12,7 +12,7 @@
     "dev": "webpack-dev-server --host 0.0.0.0 --inline --progress --config webpack.config.js --mode development"
   },
   "devDependencies": {
-    "copy-webpack-plugin": "^5.1.1",
+    "copy-webpack-plugin": "^12.0.2",
     "css-loader": "^3.4.2",
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.1",
@@ -20,7 +20,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.18.3",
     "style-loader": "^0.23.1",
-    "webpack": "^4.41.5",
+    "webpack": "^5.97.1",
     "webpack-cli": "^3.3.5",
     "webpack-dev-server": "^3.10.3"
   },
